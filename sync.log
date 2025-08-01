@@ -1,0 +1,151 @@
+2025-08-01T09:50:34.750Z | Marianatek→Webflow | Variant: 14921 | SUCCESS | Restocked Webflow to 8
+2025-08-01T10:03:04.914Z | FETCH | Variant: PAGE-5 | ERROR | 500 error. Retrying...
+2025-08-01T10:03:19.606Z | Webflow→Marianatek | Variant: 685c09fff5bcd8ffb480de48 | ERROR | Request failed with status code 429
+2025-08-01T10:03:19.857Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ec | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.071Z | Webflow→Marianatek | Variant: 685c09fff5bcd8ffb480de48 | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.120Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ea | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.312Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ec | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.376Z | Webflow→Marianatek | Variant: 685c02898116b84b9fb965e5 | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.626Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ea | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.629Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb9645c | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.850Z | Webflow→Marianatek | Variant: 685c02898116b84b9fb965e5 | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.868Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb963ef | ERROR | Request failed with status code 429
+2025-08-01T10:03:20.893Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ec | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.101Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb9624c | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.123Z | Webflow→Marianatek | Variant: 685c09fdf5bcd8ffb480d9ea | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.368Z | Webflow→Marianatek | Variant: 685c02898116b84b9fb965e5 | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.399Z | Webflow→Marianatek | Variant: 685c024db221f3992bc182bf | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.488Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb9645c | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.606Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb9645c | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.630Z | Webflow→Marianatek | Variant: 685c024cb221f3992bc1814f | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.710Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb963ef | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.863Z | Webflow→Marianatek | Variant: 685c024cb221f3992bc180d8 | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.865Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb963ef | ERROR | Request failed with status code 429
+2025-08-01T10:03:21.939Z | Webflow→Marianatek | Variant: 685c02888116b84b9fb9624c | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.069Z | Marianatek→Webflow | Variant: 14942 | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.286Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839fac | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.364Z | Marianatek→Webflow | Variant: 14941 | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.556Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f6f | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.597Z | Marianatek→Webflow | Variant: 14940 | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.745Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f6f | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.797Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f55 | ERROR | Request failed with status code 429
+2025-08-01T10:04:01.847Z | Marianatek→Webflow | Variant: 14939 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.017Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f55 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.037Z | Webflow→Marianatek | Variant: 6825c9b9f3904dc103839e99 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.083Z | Marianatek→Webflow | Variant: 14938 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.248Z | Webflow→Marianatek | Variant: 6825c9b9f3904dc103839e99 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.304Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa743 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.325Z | Marianatek→Webflow | Variant: 14937 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.483Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa743 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.548Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa717 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.557Z | Marianatek→Webflow | Variant: 14936 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.632Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f6f | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.712Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa717 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.779Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa687 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.790Z | Marianatek→Webflow | Variant: 14935 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.904Z | Webflow→Marianatek | Variant: 6825c9baf3904dc103839f55 | ERROR | Request failed with status code 429
+2025-08-01T10:04:02.942Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa687 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.010Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa616 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.048Z | Marianatek→Webflow | Variant: 14934 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.130Z | Webflow→Marianatek | Variant: 6825c9b9f3904dc103839e99 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.172Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa616 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.249Z | Webflow→Marianatek | Variant: 6825c70666094927b0afa4cf | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.286Z | Marianatek→Webflow | Variant: 14933 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.350Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa743 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.400Z | Webflow→Marianatek | Variant: 6825c70666094927b0afa4cf | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.486Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be035f | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.537Z | SYSTEM | Variant: GLOBAL | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.639Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be035f | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.714Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0327 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.743Z | Webflow→Marianatek | Variant: 6825c70866094927b0afa717 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.893Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0327 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.977Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa687 | ERROR | Request failed with status code 429
+2025-08-01T10:04:03.988Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be029f | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.124Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be029f | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.198Z | Webflow→Marianatek | Variant: 6825c70766094927b0afa616 | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.233Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be027c | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.360Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be027c | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.439Z | Webflow→Marianatek | Variant: 6825c70666094927b0afa4cf | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.533Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0276 | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.590Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0276 | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.661Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be035f | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.830Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f899c | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.832Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f899c | ERROR | Request failed with status code 429
+2025-08-01T10:04:04.897Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0327 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.059Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f88c1 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.073Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f88c1 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.128Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be029f | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.288Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f8896 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.321Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f8896 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.355Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be027c | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.529Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87d7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.573Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87d7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.583Z | Webflow→Marianatek | Variant: 6825c57ce9d4ca2ab8be0276 | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.773Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87cd | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.834Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f899c | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.836Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87cd | ERROR | Request failed with status code 429
+2025-08-01T10:04:05.999Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d422 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.058Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f88c1 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.069Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d422 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.224Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d420 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.285Z | Webflow→Marianatek | Variant: 6825c4d85bf5ed711f8f8896 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.313Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d420 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.451Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3f7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.522Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87d7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.554Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3f7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.718Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e4 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.786Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e4 | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.844Z | Webflow→Marianatek | Variant: 6825c4d75bf5ed711f8f87cd | ERROR | Request failed with status code 429
+2025-08-01T10:04:06.951Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e0 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.017Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e0 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.120Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d422 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.181Z | Webflow→Marianatek | Variant: 6825c1e15c818c06d96873ed | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.264Z | Webflow→Marianatek | Variant: 6825c1e15c818c06d96873ed | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.356Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d420 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.422Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687262 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.494Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687262 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.594Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3f7 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.660Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687247 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.725Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687247 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.825Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e4 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.904Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9687023 | ERROR | Request failed with status code 429
+2025-08-01T10:04:07.953Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9687023 | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.060Z | Webflow→Marianatek | Variant: 6825c29b79645d3722a3d3e0 | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.134Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9686ff6 | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.186Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9686ff6 | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.298Z | Webflow→Marianatek | Variant: 6825c1e15c818c06d96873ed | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.669Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687262 | ERROR | Request failed with status code 429
+2025-08-01T10:04:08.890Z | Webflow→Marianatek | Variant: 6825c1e05c818c06d9687247 | ERROR | Request failed with status code 429
+2025-08-01T10:04:09.111Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9687023 | ERROR | Request failed with status code 429
+2025-08-01T10:04:09.332Z | Webflow→Marianatek | Variant: 6825c1de5c818c06d9686ff6 | ERROR | Request failed with status code 429
+2025-08-01T10:04:20.855Z | Marianatek→Webflow | Variant: 14942 | ERROR | Request failed with status code 429
+2025-08-01T10:04:21.084Z | Marianatek→Webflow | Variant: 14941 | ERROR | Request failed with status code 429
+2025-08-01T10:04:21.319Z | Marianatek→Webflow | Variant: 14940 | ERROR | Request failed with status code 429
+2025-08-01T10:04:21.596Z | Marianatek→Webflow | Variant: 14939 | ERROR | Request failed with status code 429
+2025-08-01T10:04:21.824Z | Marianatek→Webflow | Variant: 14938 | ERROR | Request failed with status code 429
+2025-08-01T10:04:22.086Z | Marianatek→Webflow | Variant: 14937 | ERROR | Request failed with status code 429
+2025-08-01T10:09:59.033Z | API | Variant: PAGE-1 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T10:10:55.896Z | API | Variant: PAGE-1 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T10:14:12.563Z | API | Variant: PAGE-13 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T10:50:00.554Z | API | Variant: PAGE-15 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T10:53:20.638Z | Marianatek→Webflow | Variant: 14853 | SUCCESS | Restocked Webflow to 10
+2025-08-01T10:53:20.732Z | Marianatek→Webflow | Variant: 14853 | SUCCESS | Restocked Webflow to 10
+2025-08-01T10:59:07.389Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T11:50:52.751Z | API | Variant: PAGE-9 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T11:54:44.744Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T12:14:53.142Z | API | Variant: PAGE-9 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T12:18:57.439Z | API | Variant: PAGE-11 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T13:00:29.279Z | Marianatek→Webflow | Variant: 15087 | ERROR | write ECONNABORTED
+2025-08-01T14:02:16.283Z | Webflow→Marianatek | Variant: 687bbf9a204662903170f973 | ERROR | write ECONNABORTED
+2025-08-01T14:02:57.664Z | API | Variant: 682b12f783d58a968323187f | RETRY | Retrying after 20000ms due to 429
+2025-08-01T14:02:57.812Z | API | Variant: 682b12f783d58a968323187f | RETRY | Retrying after 20000ms due to 429
+2025-08-01T14:02:57.834Z | API | Variant: 685c024cb221f3992bc17f0d | RETRY | Retrying after 20000ms due to 429
+2025-08-01T14:02:58.522Z | API | Variant: 682b12f783d58a968323187f | RETRY | Retrying after 19000ms due to 429
+2025-08-01T14:05:47.599Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T14:16:45.221Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T14:20:26.444Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T14:22:44.294Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T14:47:49.912Z | SYSTEM | Variant: GLOBAL | ERROR | timeout of 10000ms exceeded
+2025-08-01T14:48:40.650Z | API | Variant: PAGE-13 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T14:56:29.130Z | API | Variant: PAGE-3 | RETRY | Retrying after 1000ms due to 500
+2025-08-01T17:14:17.760Z | Marianatek→Webflow | Variant: 15087 | ERROR | write ECONNABORTED

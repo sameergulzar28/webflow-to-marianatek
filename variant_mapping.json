@@ -1,0 +1,924 @@
+[
+    
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (COFFEE BROWN XL)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b820",
+    "webflow_variant_id": "687a6d5ef50c7b8cbff5b8e3",
+    "marianatek_variant_id": "14919"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (COFFEE BROWN L)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b820",
+    "webflow_variant_id": "687a6d5ef50c7b8cbff5b8e1",
+    "marianatek_variant_id": "14918"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (COFFEE BROWN M)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b820",
+    "webflow_variant_id": "687a6d5ef50c7b8cbff5b8e9",
+    "marianatek_variant_id": "14917"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (COFFEE BROWN S)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b820",
+    "webflow_variant_id": "687a6d5ef50c7b8cbff5b8e7",
+    "marianatek_variant_id": "14916"
+  },
+
+
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BONE XL)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b81e",
+    "webflow_variant_id": "687a6d5df50c7b8cbff5b89c",
+    "marianatek_variant_id": "14872"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BONE L)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b81e",
+    "webflow_variant_id": "687a6d5df50c7b8cbff5b89e",
+    "marianatek_variant_id": "14871"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BONE M)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b81e",
+    "webflow_variant_id": "687a6d5df50c7b8cbff5b89a",
+    "marianatek_variant_id": "14870"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BONE S)",
+    "webflow_product_id": "687a6d5cf50c7b8cbff5b81e",
+    "webflow_variant_id": "687a6d5df50c7b8cbff5b896",
+    "marianatek_variant_id": "14869"
+  },
+
+  
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (SAHARA XL)",
+    "webflow_product_id": "68671b111c6441e3f7861b62",
+    "webflow_variant_id": "68671b12a209f07b4f6073a9",
+    "marianatek_variant_id": "14910"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (SAHARA L)",
+    "webflow_product_id": "68671b111c6441e3f7861b62",
+    "webflow_variant_id": "68671b12a209f07b4f6073ab",
+    "marianatek_variant_id": "14909"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (SAHARA M)",
+    "webflow_product_id": "68671b111c6441e3f7861b62",
+    "webflow_variant_id": "68671b12a209f07b4f6073ad",
+    "marianatek_variant_id": "14908"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (SAHARA S)",
+    "webflow_product_id": "68671b111c6441e3f7861b62",
+    "webflow_variant_id": "68671b12a209f07b4f6073b1",
+    "marianatek_variant_id": "14834"
+  },
+
+  
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLUSH XL)",
+    "webflow_product_id": "685dc4680dfae0665230e57e",
+    "webflow_variant_id": "685dc46aae656b23b9c4cc40",
+    "marianatek_variant_id": "14863"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLUSH L)",
+    "webflow_product_id": "685dc4680dfae0665230e57e",
+    "webflow_variant_id": "685dc46aae656b23b9c4cd45",
+    "marianatek_variant_id": "14862"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLUSH M)",
+    "webflow_product_id": "685dc4680dfae0665230e57e",
+    "webflow_variant_id": "685dc469ae656b23b9c4caeb",
+    "marianatek_variant_id": "14861"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLUSH S)",
+    "webflow_product_id": "685dc4680dfae0665230e57e",
+    "webflow_variant_id": "685dc46bae656b23b9c4cf2f",
+    "marianatek_variant_id": "14822"
+  },
+
+    
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLACK XXL)",
+    "webflow_product_id": "685dc450572c220acb7ce986",
+    "webflow_variant_id": "685dc452fe001d75c565b8f7",
+    "marianatek_variant_id": "14868"
+  },  
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLACK XL)",
+    "webflow_product_id": "685dc450572c220acb7ce986",
+    "webflow_variant_id": "685dc452fe001d75c565b96c",
+    "marianatek_variant_id": "14867"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLACK L)",
+    "webflow_product_id": "685dc450572c220acb7ce986",
+    "webflow_variant_id": "685dc451fe001d75c565b6cc",
+    "marianatek_variant_id": "14866"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLACK M)",
+    "webflow_product_id": "685dc450572c220acb7ce986",
+    "webflow_variant_id": "685dc452fe001d75c565ba3f",
+    "marianatek_variant_id": "14865"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (BLACK S)",
+    "webflow_product_id": "685dc450572c220acb7ce986",
+    "webflow_variant_id": "685dc452fe001d75c565b822",
+    "marianatek_variant_id": "14864"
+  },
+
+    
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (MIDNIGHT BLUE XXL)",
+    "webflow_product_id": "685c0d6e0fe6e65203a3e41a",
+    "webflow_variant_id": "685c0d6f26e18c3689d996b1",
+    "marianatek_variant_id": "14915"
+  },  
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (MIDNIGHT BLUE XL)",
+    "webflow_product_id": "685c0d6e0fe6e65203a3e41a",
+    "webflow_variant_id": "685c0d6f26e18c3689d998bb",
+    "marianatek_variant_id": "14914"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (MIDNIGHT BLUE L)",
+    "webflow_product_id": "685c0d6e0fe6e65203a3e41a",
+    "webflow_variant_id": "685c0d6f26e18c3689d99815",
+    "marianatek_variant_id": "14913"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (MIDNIGHT BLUE M)",
+    "webflow_product_id": "685c0d6e0fe6e65203a3e41a",
+    "webflow_variant_id": "685c0d6f26e18c3689d996b3",
+    "marianatek_variant_id": "14912"
+  },
+  {
+    "_comment": "WHO WE ARE HOODIE Variant: (MIDNIGHT BLUE S)",
+    "webflow_product_id": "685c0d6e0fe6e65203a3e41a",
+    "webflow_variant_id": "685c0d6f26e18c3689d9983d",
+    "marianatek_variant_id": "14911"
+  },
+
+  
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (IVORY XL)",
+    "webflow_product_id": "685c0d039cf28ae439d27a94",
+    "webflow_variant_id": "685c0d043c7d51000a6980c6",
+    "marianatek_variant_id": "14956"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (IVORY L)",
+    "webflow_product_id": "685c0d039cf28ae439d27a94",
+    "webflow_variant_id": "685c0d043c7d51000a6980bf",
+    "marianatek_variant_id": "14955"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (IVORY M)",
+    "webflow_product_id": "685c0d039cf28ae439d27a94",
+    "webflow_variant_id": "685c0d053c7d51000a69822f",
+    "marianatek_variant_id": "14954"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (IVORY S)",
+    "webflow_product_id": "685c0d039cf28ae439d27a94",
+    "webflow_variant_id": "685c0d043c7d51000a6980c2",
+    "marianatek_variant_id": "14842"
+  },
+  
+  
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (MOSS XL)",
+    "webflow_product_id": "685c0c4c8c1e10ded8ee34ea",
+    "webflow_variant_id": "685c0c4de9a862bb86eb0540",
+    "marianatek_variant_id": "14936"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (MOSS L)",
+    "webflow_product_id": "685c0c4c8c1e10ded8ee34ea",
+    "webflow_variant_id": "685c0c4ee9a862bb86eb0745",
+    "marianatek_variant_id": "14935"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (MOSS M)",
+    "webflow_product_id": "685c0c4c8c1e10ded8ee34ea",
+    "webflow_variant_id": "685c0c4ee9a862bb86eb087b",
+    "marianatek_variant_id": "14934"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (MOSS S)",
+    "webflow_product_id": "685c0c4c8c1e10ded8ee34ea",
+    "webflow_variant_id": "685c0c4de9a862bb86eb0258",
+    "marianatek_variant_id": "14933"
+  },
+  
+
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (GREY XXL)",
+    "webflow_product_id": "685c0c3da23dd6111293e8ea",
+    "webflow_variant_id": "685c0c3e8e6b43aa281fa877",
+    "marianatek_variant_id": "14928"
+  },  
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (GREY XL)",
+    "webflow_product_id": "685c0c3da23dd6111293e8ea",
+    "webflow_variant_id": "685c0c3e8e6b43aa281faafb",
+    "marianatek_variant_id": "14927"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (GREY L)",
+    "webflow_product_id": "685c0c3da23dd6111293e8ea",
+    "webflow_variant_id": "685c0c3f8e6b43aa281fb01e",
+    "marianatek_variant_id": "14926"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (GREY M)",
+    "webflow_product_id": "685c0c3da23dd6111293e8ea",
+    "webflow_variant_id": "685c0c3e8e6b43aa281faa03",
+    "marianatek_variant_id": "14925"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (GREY S)",
+    "webflow_product_id": "685c0c3da23dd6111293e8ea",
+    "webflow_variant_id": "685c0c3e8e6b43aa281fa872",
+    "marianatek_variant_id": "14924"
+  },
+
+    
+
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (FLOW BLUE XL)",
+    "webflow_product_id": "685c0c29e80a51f70df9a530",
+    "webflow_variant_id": "685c0c2ce7c00129b7fa1b54",
+    "marianatek_variant_id": "14932"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (FLOW BLUE L)",
+    "webflow_product_id": "685c0c29e80a51f70df9a530",
+    "webflow_variant_id": "685c0c2be7c00129b7fa1834",
+    "marianatek_variant_id": "14931"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (FLOW BLUE M)",
+    "webflow_product_id": "685c0c29e80a51f70df9a530",
+    "webflow_variant_id": "685c0c2ae7c00129b7fa16a4",
+    "marianatek_variant_id": "14930"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (FLOW BLUE S)",
+    "webflow_product_id": "685c0c29e80a51f70df9a530",
+    "webflow_variant_id": "685c0c2be7c00129b7fa1734",
+    "marianatek_variant_id": "14929"
+  },
+
+
+
+  {
+    "_comment": "SQUARE ONE TEE Variant: (WHITE XXL)",
+    "webflow_product_id": "685c0bab07a8b34dad74327e",
+    "webflow_variant_id": "685c0bab1d049df62a0f688e",
+    "marianatek_variant_id": "14949"
+  },  
+  {
+    "_comment": "SQUARE ONE TEE Variant: (WHITE XL)",
+    "webflow_product_id": "685c0bab07a8b34dad74327e",
+    "webflow_variant_id": "685c0bab1d049df62a0f6892",
+    "marianatek_variant_id": "14948"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (WHITE L)",
+    "webflow_product_id": "685c0bab07a8b34dad74327e",
+    "webflow_variant_id": "685c0bad1d049df62a0f6e18",
+    "marianatek_variant_id": "14947"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (WHITE M)",
+    "webflow_product_id": "685c0bab07a8b34dad74327e",
+    "webflow_variant_id": "685c0bac1d049df62a0f6bcf",
+    "marianatek_variant_id": "14946"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (WHITE S)",
+    "webflow_product_id": "685c0bab07a8b34dad74327e",
+    "webflow_variant_id": "685c0bad1d049df62a0f6ec7",
+    "marianatek_variant_id": "14945"
+  },
+  
+
+  {
+    "_comment": "SQUARE ONE TEE Variant: (NEON PINK XL)",
+    "webflow_product_id": "685c0b88e3bd58a292393d57",
+    "webflow_variant_id": "685c0b896b2dd5abcf9f19a3",
+    "marianatek_variant_id": "14953"
+  },  
+  {
+    "_comment": "SQUARE ONE TEE Variant: (NEON PINK L)",
+    "webflow_product_id": "685c0b88e3bd58a292393d57",
+    "webflow_variant_id": "685c0b896b2dd5abcf9f18e9",
+    "marianatek_variant_id": "14952"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (NEON PINK M)",
+    "webflow_product_id": "685c0b88e3bd58a292393d57",
+    "webflow_variant_id": "685c0b896b2dd5abcf9f18ee",
+    "marianatek_variant_id": "14951"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (NEON PINK S)",
+    "webflow_product_id": "685c0b88e3bd58a292393d57",
+    "webflow_variant_id": "685c0b8a6b2dd5abcf9f1cd1",
+    "marianatek_variant_id": "14950"
+  },
+
+
+  {
+    "_comment": "SPORT SHORT Variant: (RED XXL)",
+    "webflow_product_id": "685c0b3731944600b1cff40f",
+    "webflow_variant_id": "685c0b394744baa8f16dde3e",
+    "marianatek_variant_id": "14987"
+  },  
+  {
+    "_comment": "SPORT SHORT Variant: (RED XL)",
+    "webflow_product_id": "685c0b3731944600b1cff40f",
+    "webflow_variant_id": "685c0b384744baa8f16ddcee",
+    "marianatek_variant_id": "14986"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (RED L)",
+    "webflow_product_id": "685c0b3731944600b1cff40f",
+    "webflow_variant_id": "685c0b384744baa8f16ddcb7",
+    "marianatek_variant_id": "14985"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (RED M)",
+    "webflow_product_id": "685c0b3731944600b1cff40f",
+    "webflow_variant_id": "685c0b384744baa8f16ddcbc",
+    "marianatek_variant_id": "14984"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (RED S)",
+    "webflow_product_id": "685c0b3731944600b1cff40f",
+    "webflow_variant_id": "685c0b384744baa8f16ddcba",
+    "marianatek_variant_id": "14983"
+  },
+  
+
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SANDSTORM XXL)",
+    "webflow_product_id": "685c0a4220a4b64f5f6f755d",
+    "webflow_variant_id": "685c0a4399f5794e0af59149",
+    "marianatek_variant_id": "14965"
+  },  
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SANDSTORM XL)",
+    "webflow_product_id": "685c0a4220a4b64f5f6f755d",
+    "webflow_variant_id": "685c0a4599f5794e0af59823",
+    "marianatek_variant_id": "14964"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SANDSTORM L)",
+    "webflow_product_id": "685c0a4220a4b64f5f6f755d",
+    "webflow_variant_id": "685c0a4499f5794e0af5940f",
+    "marianatek_variant_id": "14963"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SANDSTORM M)",
+    "webflow_product_id": "685c0a4220a4b64f5f6f755d",
+    "webflow_variant_id": "685c0a4399f5794e0af59142",
+    "marianatek_variant_id": "14962"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SANDSTORM S)",
+    "webflow_product_id": "685c0a4220a4b64f5f6f755d",
+    "webflow_variant_id": "685c0a4599f5794e0af59701",
+    "marianatek_variant_id": "14844"
+  },
+  
+   
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (MILITARY FROST XL)",
+    "webflow_product_id": "685c0a31090972b027508805",
+    "webflow_variant_id": "685c0a321b667c055b0afa74",
+    "marianatek_variant_id": "14974"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (MILITARY FROST L)",
+    "webflow_product_id": "685c0a31090972b027508805",
+    "webflow_variant_id": "685c0a331b667c055b0afdca",
+    "marianatek_variant_id": "14973"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (MILITARY FROST M)",
+    "webflow_product_id": "685c0a31090972b027508805",
+    "webflow_variant_id": "685c0a341b667c055b0b0319",
+    "marianatek_variant_id": "14972"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (MILITARY FROST S)",
+    "webflow_product_id": "685c0a31090972b027508805",
+    "webflow_variant_id": "685c0a331b667c055b0b015b",
+    "marianatek_variant_id": "14971"
+  },
+  
+     
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (LAPS BLUE FROST XL)",
+    "webflow_product_id": "685c09fc15899cf2d8e8508c",
+    "webflow_variant_id": "685c09fdf5bcd8ffb480d9ec",
+    "marianatek_variant_id": "14978"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (LAPS BLUE FROST L)",
+    "webflow_product_id": "685c09fc15899cf2d8e8508c",
+    "webflow_variant_id": "685c09fdf5bcd8ffb480d9ea",
+    "marianatek_variant_id": "14977"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (LAPS BLUE FROST M)",
+    "webflow_product_id": "685c09fc15899cf2d8e8508c",
+    "webflow_variant_id": "685c09fff5bcd8ffb480dfec",
+    "marianatek_variant_id": "14976"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (LAPS BLUE FROST S)",
+    "webflow_product_id": "685c09fc15899cf2d8e8508c",
+    "webflow_variant_id": "685c09fff5bcd8ffb480de48",
+    "marianatek_variant_id": "14975"
+  },
+    
+     
+  {
+    "_comment": "BASIC V CREW Variant: (MIDNIGHT BLUE XL)",
+    "webflow_product_id": "685c0287470aeeb8b846c85f",
+    "webflow_variant_id": "685c02888116b84b9fb9624c",
+    "marianatek_variant_id": "14898"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (MIDNIGHT BLUE L)",
+    "webflow_product_id": "685c0287470aeeb8b846c85f",
+    "webflow_variant_id": "685c02888116b84b9fb963ef",
+    "marianatek_variant_id": "14897"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (MIDNIGHT BLUE M)",
+    "webflow_product_id": "685c0287470aeeb8b846c85f",
+    "webflow_variant_id": "685c02898116b84b9fb965e5",
+    "marianatek_variant_id": "14896"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (MIDNIGHT BLUE S)",
+    "webflow_product_id": "685c0287470aeeb8b846c85f",
+    "webflow_variant_id": "685c02888116b84b9fb9645c",
+    "marianatek_variant_id": "14895"
+  },
+  
+  
+  {
+    "_comment": "BASIC V CREW Variant: (ONYX XXL)",
+    "webflow_product_id": "685c024a5357354712e64ee7",
+    "webflow_variant_id": "685c024cb221f3992bc1814f",
+    "marianatek_variant_id": "14889"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (ONYX XL)",
+    "webflow_product_id": "685c024a5357354712e64ee7",
+    "webflow_variant_id": "685c024cb221f3992bc17f0d",
+    "marianatek_variant_id": "14888"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (ONYX L)",
+    "webflow_product_id": "685c024a5357354712e64ee7",
+    "webflow_variant_id": "685c024cb221f3992bc17f06",
+    "marianatek_variant_id": "14887"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (ONYX M)",
+    "webflow_product_id": "685c024a5357354712e64ee7",
+    "webflow_variant_id": "685c024cb221f3992bc180d8",
+    "marianatek_variant_id": "14886"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (ONYX S)",
+    "webflow_product_id": "685c024a5357354712e64ee7",
+    "webflow_variant_id": "685c024db221f3992bc182bf",
+    "marianatek_variant_id": "14828"
+  },
+ 
+
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + PINK XXL)",
+    "webflow_product_id": "6852298a3ff52f29eca50194",
+    "webflow_variant_id": "685229957135ff83a61865af",
+    "marianatek_variant_id": "14907"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + PINK XL)",
+    "webflow_product_id": "6852298a3ff52f29eca50194",
+    "webflow_variant_id": "685229957135ff83a61865ab",
+    "marianatek_variant_id": "14906"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + PINK L)",
+    "webflow_product_id": "6852298a3ff52f29eca50194",
+    "webflow_variant_id": "685229967135ff83a618683d",
+    "marianatek_variant_id": "14905"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + PINK M)",
+    "webflow_product_id": "6852298a3ff52f29eca50194",
+    "webflow_variant_id": "685229967135ff83a6186845",
+    "marianatek_variant_id": "14904"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + PINK S)",
+    "webflow_product_id": "6852298a3ff52f29eca50194",
+    "webflow_variant_id": "685229967135ff83a6186879",
+    "marianatek_variant_id": "14903"
+  },
+
+
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + Blue XXL)",
+    "webflow_product_id": "682c7be6e211f3b40723d402",
+    "webflow_variant_id": "682c7be89f9b2cd61139ed16",
+    "marianatek_variant_id": "14902"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + Blue XL)",
+    "webflow_product_id": "682c7be6e211f3b40723d402",
+    "webflow_variant_id": "682c7be89f9b2cd61139ed41",
+    "marianatek_variant_id": "14901"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + Blue L)",
+    "webflow_product_id": "682c7be6e211f3b40723d402",
+    "webflow_variant_id": "682c7be99f9b2cd61139ef03",
+    "marianatek_variant_id": "14900"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + Blue M)",
+    "webflow_product_id": "682c7be6e211f3b40723d402",
+    "webflow_variant_id": "682c7be89f9b2cd61139eda6",
+    "marianatek_variant_id": "14899"
+  },
+  {
+    "_comment": "GRATITUDE TEE Variant: (WHITE + Blue S)",
+    "webflow_product_id": "682c7be6e211f3b40723d402",
+    "webflow_variant_id": "682c7be89f9b2cd61139ecf1",
+    "marianatek_variant_id": "14830"
+  },
+
+
+  {
+    "_comment": "GOIN PLACES SWEATS Variant: (GREY XXL)",
+    "webflow_product_id": "682c74a009e84d620f23c23a",
+    "webflow_variant_id": "682c74a16172958d95d2fb94",
+    "marianatek_variant_id": "14860"
+  },
+  {
+    "_comment": "GOIN PLACES SWEATS Variant: (GREY XL)",
+    "webflow_product_id": "682c74a009e84d620f23c23a",
+    "webflow_variant_id": "682c74a16172958d95d2fbad",
+    "marianatek_variant_id": "14859"
+  },
+  {
+    "_comment": "GOIN PLACES SWEATS Variant: (GREY L)",
+    "webflow_product_id": "682c74a009e84d620f23c23a",
+    "webflow_variant_id": "682c74a16172958d95d2fbab",
+    "marianatek_variant_id": "14858"
+  },
+  {
+    "_comment": "GOIN PLACES SWEATS Variant: (GREY M)",
+    "webflow_product_id": "682c74a009e84d620f23c23a",
+    "webflow_variant_id": "682c74a16172958d95d2fbc8",
+    "marianatek_variant_id": "14857"
+  },
+  {
+    "_comment": "GOIN PLACES SWEATS Variant: (GREY S)",
+    "webflow_product_id": "682c74a009e84d620f23c23a",
+    "webflow_variant_id": "682c74a16172958d95d2fba9",
+    "marianatek_variant_id": "14820"
+  },
+
+
+  {
+    "_comment": "GOIN PLACES HOODIE Variant: (GREY XXL)",
+    "webflow_product_id": "682c6e4e28c46e014873fae3",
+    "webflow_variant_id": "682c6e508c0dbe0a8558b0c7",
+    "marianatek_variant_id": "14856"
+  },
+  {
+    "_comment": "GOIN PLACES HOODIE Variant: (GREY XL)",
+    "webflow_product_id": "682c6e4e28c46e014873fae3",
+    "webflow_variant_id": "682c6e508c0dbe0a8558afed",
+    "marianatek_variant_id": "14855"
+  },
+  {
+    "_comment": "GOIN PLACES HOODIE Variant: (GREY L)",
+    "webflow_product_id": "682c6e4e28c46e014873fae3",
+    "webflow_variant_id": "682c6e508c0dbe0a8558b003",
+    "marianatek_variant_id": "14854"
+  },
+  {
+    "_comment": "GOIN PLACES HOODIE Variant: (GREY M)",
+    "webflow_product_id": "682c6e4e28c46e014873fae3",
+    "webflow_variant_id": "682c6e508c0dbe0a8558afef",
+    "marianatek_variant_id": "14818"
+  },
+  {
+    "_comment": "GOIN PLACES HOODIE Variant: (GREY S)",
+    "webflow_product_id": "682c6e4e28c46e014873fae3",
+    "webflow_variant_id": "682c6e508c0dbe0a8558aff2",
+    "marianatek_variant_id": "14853"
+  },
+
+
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (HEATHER GREY XXL)",
+    "webflow_product_id": "682b2512364652d80d75cdd3",
+    "webflow_variant_id": "682b251515b096875b61f273",
+    "marianatek_variant_id": "14877"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (HEATHER GREY XL)",
+    "webflow_product_id": "682b2512364652d80d75cdd3",
+    "webflow_variant_id": "682b251715b096875b61f48c",
+    "marianatek_variant_id": "14876"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (HEATHER GREY L)",
+    "webflow_product_id": "682b2512364652d80d75cdd3",
+    "webflow_variant_id": "682b251615b096875b61f3d9",
+    "marianatek_variant_id": "14875"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (HEATHER GREY M)",
+    "webflow_product_id": "682b2512364652d80d75cdd3",
+    "webflow_variant_id": "682b251815b096875b61f790",
+    "marianatek_variant_id": "14874"
+  },
+  {
+    "_comment": "THE EVERYDAY CROP CREW Variant: (HEATHER GREY S)",
+    "webflow_product_id": "682b2512364652d80d75cdd3",
+    "webflow_variant_id": "682b251715b096875b61f56d",
+    "marianatek_variant_id": "14873"
+  },
+
+
+  {
+    "_comment": "BASIC V CREW Variant: (GREY HEATHER XXL)",
+    "webflow_product_id": "682b12f3a9cd0306b0a6c6d9",
+    "webflow_variant_id": "682b12f683d58a9683231721",
+    "marianatek_variant_id": "14894"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (GREY HEATHER XL)",
+    "webflow_product_id": "682b12f3a9cd0306b0a6c6d9",
+    "webflow_variant_id": "682b12f683d58a968323171b",
+    "marianatek_variant_id": "14893"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (GREY HEATHER L)",
+    "webflow_product_id": "682b12f3a9cd0306b0a6c6d9",
+    "webflow_variant_id": "682b12f783d58a96832318bd",
+    "marianatek_variant_id": "14892"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (GREY HEATHER M)",
+    "webflow_product_id": "682b12f3a9cd0306b0a6c6d9",
+    "webflow_variant_id": "682b12f583d58a9683231611",
+    "marianatek_variant_id": "14891"
+  },
+  {
+    "_comment": "BASIC V CREW Variant: (GREY HEATHER S)",
+    "webflow_product_id": "682b12f3a9cd0306b0a6c6d9",
+    "webflow_variant_id": "682b12f783d58a968323187f",
+    "marianatek_variant_id": "14890"
+  },
+
+  {
+    "_comment": "SPORT SHORT Variant: (BLACK XXL)",
+    "webflow_product_id": "6825c9b8544e63efd76393a5",
+    "webflow_variant_id": "6825c9b9f3904dc103839e99",
+    "marianatek_variant_id": "14982"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (BLACK XL)",
+    "webflow_product_id": "6825c9b8544e63efd76393a5",
+    "webflow_variant_id": "6825c9baf3904dc103839f6f",
+    "marianatek_variant_id": "14981"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (BLACK L)",
+    "webflow_product_id": "6825c9b8544e63efd76393a5",
+    "webflow_variant_id": "6825c9baf3904dc103839fac",
+    "marianatek_variant_id": "14980"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (BLACK M)",
+    "webflow_product_id": "6825c9b8544e63efd76393a5",
+    "webflow_variant_id": "6825c9baf3904dc103839fb8",
+    "marianatek_variant_id": "14979"
+  },
+  {
+    "_comment": "SPORT SHORT Variant: (BLACK S)",
+    "webflow_product_id": "6825c9b8544e63efd76393a5",
+    "webflow_variant_id": "6825c9baf3904dc103839f55",
+    "marianatek_variant_id": "14846"
+  },
+
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SCARLETT FROST XXL)",
+    "webflow_product_id": "6825c6ff0b2a124185f7e9fd",
+    "webflow_variant_id": "6825c70866094927b0afa717",
+    "marianatek_variant_id": "14970"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SCARLETT FROST XL)",
+    "webflow_product_id": "6825c6ff0b2a124185f7e9fd",
+    "webflow_variant_id": "6825c70766094927b0afa687",
+    "marianatek_variant_id": "14969"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SCARLETT FROST L)",
+    "webflow_product_id": "6825c6ff0b2a124185f7e9fd",
+    "webflow_variant_id": "6825c70666094927b0afa4cf",
+    "marianatek_variant_id": "14968"
+  },
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SCARLETT FROST M)",
+    "webflow_product_id": "6825c6ff0b2a124185f7e9fd",
+    "webflow_variant_id": "6825c70866094927b0afa743",
+    "marianatek_variant_id": "14967"
+  },
+
+  {
+    "_comment": "MEMBERS ONLY TEE Variant: (SCARLETT FROST S)",
+    "webflow_product_id": "6825c6ff0b2a124185f7e9fd",
+    "webflow_variant_id": "6825c70766094927b0afa616",
+    "marianatek_variant_id": "14966"
+  },
+
+
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (PEPPER XXL)",
+    "webflow_product_id": "6825c57baa9dc8fada2b85f4",
+    "webflow_variant_id": "6825c57ce9d4ca2ab8be0276",
+    "marianatek_variant_id": "14961"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (PEPPER XL)",
+    "webflow_product_id": "6825c57baa9dc8fada2b85f4",
+    "webflow_variant_id": "6825c57ce9d4ca2ab8be027c",
+    "marianatek_variant_id": "14960"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (PEPPER L)",
+    "webflow_product_id": "6825c57baa9dc8fada2b85f4",
+    "webflow_variant_id": "6825c57ce9d4ca2ab8be0327",
+    "marianatek_variant_id": "14959"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (PEPPER M)",
+    "webflow_product_id": "6825c57baa9dc8fada2b85f4",
+    "webflow_variant_id": "6825c57ce9d4ca2ab8be035f",
+    "marianatek_variant_id": "14958"
+  },
+  {
+    "_comment": "THE WAYBACK CROP TEE Variant: (PEPPER S)",
+    "webflow_product_id": "6825c57baa9dc8fada2b85f4",
+    "webflow_variant_id": "6825c57ce9d4ca2ab8be029f",
+    "marianatek_variant_id": "14957"
+  },
+
+
+  {
+    "_comment": "SQUARE ONE TEE Variant: (PEPPER XXL)",
+    "webflow_product_id": "6825c4d39a210b22639f90c4",
+    "webflow_variant_id": "6825c4d75bf5ed711f8f87d7",
+    "marianatek_variant_id": "14944"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (PEPPER XL)",
+    "webflow_product_id": "6825c4d39a210b22639f90c4",
+    "webflow_variant_id": "6825c4d75bf5ed711f8f87cd",
+    "marianatek_variant_id": "14943"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (PEPPER L)",
+    "webflow_product_id": "6825c4d39a210b22639f90c4",
+    "webflow_variant_id": "6825c4d85bf5ed711f8f899c",
+    "marianatek_variant_id": "14942"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (PEPPER M)",
+    "webflow_product_id": "6825c4d39a210b22639f90c4",
+    "webflow_variant_id": "6825c4d85bf5ed711f8f88c1",
+    "marianatek_variant_id": "14941"
+  },
+  {
+    "_comment": "SQUARE ONE TEE Variant: (PEPPER S)",
+    "webflow_product_id": "6825c4d39a210b22639f90c4",
+    "webflow_variant_id": "6825c4d85bf5ed711f8f8896",
+    "marianatek_variant_id": "14840"
+  },
+
+
+  {
+    "_comment": "WEDNESDAY CREW Variant: (BRIGHT PINK XXL)",
+    "webflow_product_id": "6825c298a11ddfdb932e261d",
+    "webflow_variant_id": "6825c29b79645d3722a3d420",
+    "marianatek_variant_id": "14940"
+  },
+  {
+    "_comment": "WEDNESDAY CREW Variant: (BRIGHT PINK XL)",
+    "webflow_product_id": "6825c298a11ddfdb932e261d",
+    "webflow_variant_id": "6825c29b79645d3722a3d422",
+    "marianatek_variant_id": "14939"
+  },
+  {
+    "_comment": "WEDNESDAY CREW Variant: (BRIGHT PINK L)",
+    "webflow_product_id": "6825c298a11ddfdb932e261d",
+    "webflow_variant_id": "6825c29b79645d3722a3d3e4",
+    "marianatek_variant_id": "14938"
+  },
+  {
+    "_comment": "WEDNESDAY CREW Variant: (BRIGHT PINK M)",
+    "webflow_product_id": "6825c298a11ddfdb932e261d",
+    "webflow_variant_id": "6825c29b79645d3722a3d3e0",
+    "marianatek_variant_id": "14937"
+  },
+  {
+    "_comment": "WEDNESDAY CREW Variant: (BRIGHT PINK S)",
+    "webflow_product_id": "6825c298a11ddfdb932e261d",
+    "webflow_variant_id": "6825c29b79645d3722a3d3f7",
+    "marianatek_variant_id": "14838"
+  },
+
+  
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (TRUE NAVY XXL)",
+    "webflow_product_id": "6825c1dcc9f97b654fd85772",
+    "webflow_variant_id": "6825c1e05c818c06d9687262",
+    "marianatek_variant_id": "14923"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (TRUE NAVY XL)",
+    "webflow_product_id": "6825c1dcc9f97b654fd85772",
+    "webflow_variant_id": "6825c1e05c818c06d9687247",
+    "marianatek_variant_id": "14922"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (TRUE NAVY L)",
+    "webflow_product_id": "6825c1dcc9f97b654fd85772",
+    "webflow_variant_id": "6825c1de5c818c06d9687023",
+    "marianatek_variant_id": "14921"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (TRUE NAVY M)",
+    "webflow_product_id": "6825c1dcc9f97b654fd85772",
+    "webflow_variant_id": "6825c1de5c818c06d9686ff6",
+    "marianatek_variant_id": "14920"
+  },
+  {
+    "_comment": "TAKE ME OUT TEE Variant: (TRUE NAVY S)",
+    "webflow_product_id": "6825c1dcc9f97b654fd85772",
+    "webflow_variant_id": "6825c1e15c818c06d96873ed",
+    "marianatek_variant_id": "14836"
+  },
+
+
+
+  
+  {
+    "_comment": "NOT YOUR DADS HAT Variant: (BLACK OS)",
+    "webflow_product_id": "68300710492dd8aa33c63d39",
+    "webflow_variant_id": "683007116107aeb3b67d7d2a",
+    "marianatek_variant_id": "14832"
+  },
+ 
+
+  {
+    "_comment": "LAUNDRY DAY SOCKS Variant: (WHITE OS)",
+    "webflow_product_id": "683006f8e87345906832b529",
+    "webflow_variant_id": "683006f8ebbdf1222a733f06",
+    "marianatek_variant_id": "15084"
+  },
+
+  {
+    "_comment": "WATER BOTTLE Variant: (CLEAR)",
+    "webflow_product_id": "687bbf99204662903170f732",
+    "webflow_variant_id": "687bbf9a204662903170f973",
+    "marianatek_variant_id": "15087"
+  }
+
+
+]
+
