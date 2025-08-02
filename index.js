@@ -219,11 +219,20 @@ async function syncWebflowToMarianatek() {
       const marianatekQty = getMarianatekQty(res.data.data.attributes, mapEntry.marianatek_variant_id);
       const prev = lastSynced[stateKey] || { webflow: webflowQty, marianatek: marianatekQty };
 
-      if (webflowQty < prev.webflow) {
-        const delta = webflowQty - marianatekQty;
-        await adjustMarianatekInventory(mapEntry.marianatek_variant_id, delta, mapEntry.location_id || DEFAULT_LOCATION_ID);
-        logSync("Webflow→Marianatek", sku.id, "SUCCESS", `Decreased Marianatek by ${Math.abs(delta)} (new: ${webflowQty})`);
-      }
+   const changeInWebflow = webflowQty - prev.webflow; // difference since last sync
+    if (changeInWebflow !== 0) {
+      await adjustMarianatekInventory(
+        mapEntry.marianatek_variant_id,
+        changeInWebflow,
+        mapEntry.location_id || DEFAULT_LOCATION_ID
+      );
+      logSync(
+        "Webflow→Marianatek",
+        sku.id,
+        "SUCCESS",
+        `Adjusted Marianatek by ${changeInWebflow} (new Webflow qty: ${webflowQty})`
+      );
+    }
 
       lastSynced[stateKey] = { webflow: webflowQty, marianatek: marianatekQty };
       updateSyncTimestamp(stateKey);
@@ -254,3 +263,4 @@ async function syncWebflowToMarianatek() {
     }
   }, 60000);
 })();
+
