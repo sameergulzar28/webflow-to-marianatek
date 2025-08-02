@@ -177,10 +177,16 @@ async function syncMarianatekToWebflow() {
       const webflowQty = await fetchWebflowInventory(mapEntry.webflow_variant_id);
       const prev = lastSynced[stateKey] || { webflow: webflowQty, marianatek: marianatekQty };
 
-      if (marianatekQty > prev.marianatek) {
-        await updateWebflowInventory(mapEntry.webflow_variant_id, marianatekQty);
-        logSync("Marianatek→Webflow", variant.id, "SUCCESS", `Restocked Webflow to ${marianatekQty}`);
-      }
+   if (marianatekQty !== prev.marianatek) {
+  await updateWebflowInventory(mapEntry.webflow_variant_id, marianatekQty);
+  logSync(
+    "Marianatek→Webflow",
+    variant.id,
+    "SUCCESS",
+    `Updated Webflow to ${marianatekQty} (was ${prev.marianatek})`
+  );
+}
+
 
       lastSynced[stateKey] = { webflow: webflowQty, marianatek: marianatekQty };
       updateSyncTimestamp(stateKey);
